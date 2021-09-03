@@ -1,6 +1,6 @@
 ![img](https://user-images.githubusercontent.com/87245315/132034593-94d3d193-749e-4d62-b7f5-8f9f2a29426e.png)
 <p align = "center">
-[![YouTube Video](https://img.youtube.com/vi/gmUfnPFoIhc.jpg)](https://www.youtube.com/watch?v=gmUfnPFoIhc "YouTube Video")
+[![YouTube Video](https://img.youtube.com/vi/gmUfnPFoIhc/0.jpg)](https://www.youtube.com/watch?v=gmUfnPFoIhc "YouTube Video")
 </p>
 
 # pdfize-Gui
