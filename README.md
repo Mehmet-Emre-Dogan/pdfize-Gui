@@ -1,3 +1,4 @@
+![img hq](https://user-images.githubusercontent.com/87245315/132034535-177a3084-b321-439e-abc4-b72001e6cce0.png)
 # pdfize-Gui
 Create a pdf file from your images with the help of the graphical user interface.
 
