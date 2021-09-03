@@ -1,0 +1,43 @@
+*:disabled {
+	background-color:rgb(180, 180, 180);	
+	color: rgb(30, 30, 30);
+}
+*{
+	background-color: rgb(240, 240, 240);
+	color: black;
+}
+QLabel:disabled {
+	background-color: rgb(240, 240, 240);
+}
+QGroupBox{
+	border: 1px solid rgb(150, 150, 150);
+	margin-top: 1em;
+	color: rgb(30, 30, 30);
+}
+QGroupBox:disabled {
+	background-color: rgb(240, 240, 240);
+}
+QGroupBox::title {
+	background-color: rgb(240, 240, 240);
+    	top: -0.8em;
+    	left: 1em;
+}
+QMenu::item{
+	background-color: rgb(240, 240, 240);
+	color: rgb(30, 30, 30);
+}
+
+QMenuBar::item:selected{
+	color: teal;
+}
+QMenu::item:selected {
+	color: teal;
+}
+
+QProgressBar{
+	background-color: honeydew;
+}
+
+QProgressBar::chunk{
+	background-color: yellowgreen;
+}

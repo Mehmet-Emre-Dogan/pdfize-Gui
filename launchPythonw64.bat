@@ -1,0 +1,1 @@
+start pythonw64 ".\app\main.py"

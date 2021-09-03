@@ -1,0 +1,19 @@
+{
+    "EN": 
+    {
+        "ready": "Status: Ready to pdfize", "processing": "Status: Files are being processed", "finished": "Status: Pdf saved to output folder", "error": "An error occured during processing files",
+        "selectedMultiFiles": "Instead of a folder, multiple files selected", "writingToPdfFile": "Status: Writing images to PDF file",
+        "thisFolderContainsNoIms": "This folder does not contain any image",
+
+        "ramUsage": "Ram usage: "
+    },
+
+    "TR": 
+    {
+        "ready": "Durum: Pdfleştirmeye hazır", "processing": "Durum: Dosyalar işleniyor", "finished": "Durum: Pdf çıktı klasörüne kaydedildi", "error": "Dosyalar işlenirken bir hata oluştu",
+        "selectedMultiFiles": "Klasör yerine dosya grubu seçildi", "writingToPdfFile": "Durum: Dosyalar PDF dosyasına yazılıyor",
+        "thisFolderContainsNoIms": "Bu klasörde hiç resim yok",
+
+        "ramUsage": "Ram kullanımı: "
+    }
+}

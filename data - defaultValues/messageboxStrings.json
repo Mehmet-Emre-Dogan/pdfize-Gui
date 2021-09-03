@@ -1,0 +1,42 @@
+{
+    "EN": 
+    {
+        "ok": "Ok", "cancel": "Cancel", "yes": "Yes", "no": "No",
+
+        "basicColors": "Basic colors", "customColors": "Custom colors",
+        "pickScrColor": "Pick color from screen...", "addToCustomColors": "Add to custom colors", "pickAColor": "Pick a color",
+
+        "errorOccured": "An error occured", "success": "Success", "prefsSaved": "Preferences saved successfully", "error": "Error",
+
+        "inputDir": "Input directory: ", "outputDir": "Output directory: ",
+
+        "selectFolder": "Choose a folder", "selectPics": "Select pictures", "pictures": "Pictures (*.png *.jpg *jpeg)",
+
+        "unableToaccessDefaultDir": "Unable to access default directory",
+        "usingFactoryDefaultDir": "Probably the default input folder no longer exists. Therefore, '.\\pdfize-Gui\\input' will be used as input directory.\nYou may change the default input directory from app settings.",
+        "usingFactoryDefaultDirOut": "Probably the default output folder no longer exists. Therefore, '.\\pdfize-Gui\\output' will be used as output directory.\nYou may change the output directory from app settings.",
+
+        "pdfCreatedSuccss": "Pdf created successfully"
+
+    },
+
+    "TR": 
+    {
+        "ok": "Tamam", "cancel": "İptal", "yes": "Evet", "no": "Hayır",
+        
+        "basicColors": "Temel renkler", "customColors": "Özel renkler",
+        "pickScrColor": "Ekrandan renk al...", "addToCustomColors": "Özel renklere ekle", "pickAColor": "Bir renk seçin",
+
+        "errorOccured": "Bir hata oluştu", "success": "İşlem başarılı", "prefsSaved": "Tercihler başarıyla kaydedildi", "error": "Hata",
+
+        "inputDir": "Girdi dizini: ", "outputDir": "Çıktı dizini: ",
+
+        "selectFolder": "Bir klasör seçin", "selectPics": "Resimleri seçin", "pictures": "Resimler (*.png *.jpg *jpeg)",
+
+        "unableToaccessDefaultDir": "Varsayılan dizine erişilemiyor",
+        "usingFactoryDefaultDir": "Büyük olasılıkla varsayılan girdi klasörü silindi. Bu yüzden, girdi dizini olarak '.\\pdfize-Gui\\input' kullanılacak.\nVarsayılan girdi dizinini uygulama ayarlarından değiştirebilirsiniz.",
+        "usingFactoryDefaultDirOut": "Büyük olasılıkla varsayılan çıktı klasörü silindi. Bu yüzden, çıktı dizini olarak '.\\pdfize-Gui\\output' kullanılacak.\nÇıktı dizinini uygulama ayarlarından değiştirebilirsiniz.",
+
+        "pdfCreatedSuccss": "Pdf başarıyla oluşturuldu"
+    }
+}

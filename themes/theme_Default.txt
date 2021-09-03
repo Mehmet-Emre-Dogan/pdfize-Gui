@@ -1,0 +1,10 @@
+QGroupBox{
+	border: 1px solid rgb(150, 150, 150);
+	margin-top: 1em;
+	color: rgb(30, 30, 30);
+}
+QGroupBox::title {
+	background-color: rgb(240, 240, 240);
+    	top: -0.8em;
+    	left: 1em;
+}

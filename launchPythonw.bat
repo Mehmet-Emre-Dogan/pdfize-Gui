@@ -1,0 +1,1 @@
+start pythonw ".\app\main.py"
