@@ -1,6 +1,6 @@
 ![img](https://user-images.githubusercontent.com/87245315/132034593-94d3d193-749e-4d62-b7f5-8f9f2a29426e.png)
 <p align = "center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gmUfnPFoIhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![YouTube Video](https://img.youtube.com/vi/gmUfnPFoIhc.jpg)](https://www.youtube.com/watch?v=gmUfnPFoIhc "YouTube Video")
 </p>
 
 # pdfize-Gui
