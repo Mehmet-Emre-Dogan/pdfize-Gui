@@ -1,10 +1,9 @@
 ![img](https://user-images.githubusercontent.com/87245315/132034593-94d3d193-749e-4d62-b7f5-8f9f2a29426e.png)
-<p align = "center">
-[![YouTube Video](https://img.youtube.com/vi/gmUfnPFoIhc/0.jpg)](https://www.youtube.com/watch?v=gmUfnPFoIhc)
-</p>
+
+![img](https://user-images.githubusercontent.com/87245315/132074898-44aa7676-0abf-4c87-b88a-8fcab1a3a1db.mp4)
 
 # pdfize-Gui
-Create a pdf file from your images with the help of the graphical user interface.
+Create a pdf file from your images with the help of the graphical user interface. See [Youtube Link](https://www.youtube.com/watch?v=gmUfnPFoIhc) to watch high quality version of above video.
 
 # Usage
 ## Selecting files
