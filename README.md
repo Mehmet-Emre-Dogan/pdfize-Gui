@@ -4,28 +4,28 @@ Create a pdf file from your images with the help of the graphical user interface
 ## Usage
 ### Selecting files
 #### Using select folder button
-You may use the select folder button in the 'Controls' section. By doing this, all the image files in that directory will be used to create the PDF. However, if this folder contains subfolders, the images in the subfolders will not be used. Moreover, you may alter the default input folder, the folder automatically chosen at the startup of the application, from Menu>App settings>Default input folder>Change.
-If you use the 'Select folder' option, the images in the folder will be automatically sorted using the 'pkg_resources.parse_version()' built-in python function.
+- You may use the select folder button in the 'Controls' section. By doing this, all the image files in that directory will be used to create the PDF. However, if this folder contains subfolders, the images in the subfolders will not be used. Moreover, you may alter the default input folder, the folder automatically chosen at the startup of the application, from Menu>App settings>Default input folder>Change.
+- If you use the 'Select folder' option, the images in the folder will be automatically sorted using the 'pkg_resources.parse_version()' built-in python function.
 #### Using select files button
 The images you selected in the file dialog will be used to create the PDF. The order of the pictures in PDF will be the same as your order of selection.
 ### Configuring
 #### Page number
-You may use either integer ( 1, 2, 3...) or filenames as the page numbers.
-You may edit the background and foreground colors of page numbers.
-You can edit the point size and position of the page numbers.
+- You may use either integer ( 1, 2, 3...) or filenames as the page numbers.
+- You may edit the background and foreground colors of page numbers.
+- You can edit the point size and position of the page numbers.
 #### Watermark
-You may insert a watermark from this menu.
-If the watermark is enabled, you can change its color, font size, and angle (direction is counterclockwise starting from the horizontal axis, unit is degrees)
+- You may insert a watermark from this menu.
+- If the watermark is enabled, you can change its color, font size, and angle (direction is counterclockwise starting from the horizontal axis, unit is degrees)
 #### Cropping
-You can crop images in this menu. The unit of parameters in this menu is pixels.
+- You can crop images in this menu. The unit of parameters in this menu is pixels.
 #### Other
 ##### DPI
-The default value of the DPI is 100. 
-It never affects the file size and quality.
-It only determines the zoom level of the pages in the PDF reader application.
+- The default value of the DPI is 100. 
+- It never affects the file size and quality.
+- It only determines the zoom level of the pages in the PDF reader application.
 ##### Fidelity
-Its default value is 80.
-Higher values may increase the quality; however, the file size also may increase.
+- Its default value is 80.
+- Higher values may increase the quality; however, the file size also may increase.
 
 
 ## References & License
