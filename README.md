@@ -29,7 +29,7 @@ The images you selected in the file dialog will be used to create the PDF. The o
 
 
 # References & License
-## PIL
+## Pillow
 https://github.com/python-pillow/Pillow/blob/master/LICENSE
 
 The Python Imaging Library (PIL) is	 
