@@ -1,10 +1,11 @@
+<p align="center">
 ![img](https://user-images.githubusercontent.com/87245315/132034593-94d3d193-749e-4d62-b7f5-8f9f2a29426e.png)
+</p>
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=gmUfnPFoIhc" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+<p align="center">
+![img](https://user-images.githubusercontent.com/87245315/132074898-44aa7676-0abf-4c87-b88a-8fcab1a3a1db.mp4)  
+</p>
+
 
 # pdfize-Gui
 
