@@ -1,7 +1,13 @@
 ![img](https://user-images.githubusercontent.com/87245315/132034593-94d3d193-749e-4d62-b7f5-8f9f2a29426e.png)
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=gmUfnPFoIhc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 # pdfize-Gui
-![img](https://user-images.githubusercontent.com/87245315/132074898-44aa7676-0abf-4c87-b88a-8fcab1a3a1db.mp4)
+
 Create a pdf file from your images with the help of the graphical user interface. See [Youtube Link](https://www.youtube.com/watch?v=gmUfnPFoIhc) to watch high quality version of above video.
 
 # Usage
