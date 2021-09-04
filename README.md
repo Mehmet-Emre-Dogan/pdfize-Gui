@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/87245315/132034593-94d3d193-749e-4d62-b7f5-8f9f2a29426e.png"> </img>
  <video controls autoplay>
-  <source src="https://user-images.githubusercontent.com/87245315/132074898-44aa7676-0abf-4c87-b88a-8fcab1a3a1db.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/87245315/132074898-44aa7676-0abf-4c87-b88a-8fcab1a3a1db.mp4" type="video/mp4"> </source>
 </video> 
 </p>
 
