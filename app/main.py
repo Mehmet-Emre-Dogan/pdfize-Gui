@@ -114,6 +114,28 @@ class myWindow(myWindowSkeleton):
         self.ui.btnPdfize.clicked.connect(self.startPdfizing)
         self.ui.btnOpenOutputFolder.clicked.connect(self.openOutputDir)
 
+        self.setAcceptDrops(True)
+
+    # Drag and drop. See the link below for more info
+    # https://gist.github.com/peace098beat/db8ef7161508e6500ebe
+    def dragEnterEvent(self, event):
+        if event.mimeData().hasUrls():
+            event.accept()
+        else:
+            event.ignore()
+
+    def dropEvent(self, event):
+        files = [item.toLocalFile() for item in event.mimeData().urls() if  any(str(item.toLocalFile()).endswith(extension) for extension in pdfizer.validExtensions)]
+        if len(files):
+            self.files = files
+            self.config["inputFolder"] = "selectedMultiFiles"
+            dumpConfig(self.config)
+            self.setStatusbarLabelText()
+            self.showFileCou()
+        if DEBUG:
+            for item in event.mimeData().urls():
+                print(item.toLocalFile())
+
 
     ################################
     """Pdfizing operations"""
