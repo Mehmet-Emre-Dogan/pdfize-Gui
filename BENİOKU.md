@@ -10,6 +10,8 @@ Pencereli kullanıcı ara yüzü ile resimlerinizden PDF dosyası oluşturun.
 - 'Klasör seç' seçeneğinin kullanılması durumunda, klasördeki resimler PDF' e çevrilirken dosyaların sırası 'pkg_resources.parse_version()' gömülü python fonksiyonu kullanılarak otomatik olarak belirlenecektir.
 ### Dosya seç düğmesi ile dosya seçilmesi
 Açılan dosya seçim penceresinden seçtiğiniz resimler kullanılacaktır. PDF oluşturulurken gözetilecek sıra ise sizin dosyaları seçme sıranız ile aynı olacaktır.
+### Dosyaları sürükleyip bırakmak
+- PDF'e çevirmek istediğiniz dosyaları uygulama penceresine sürükleyip bırakabilirsiniz. Bu sayede uyumlu uzantılara sahip dosyalar otomatik olarak PDF yapma listesine eklenir. Eğer yeni bir dosya grubu sürükleyip bırakılırsa, PDF oluşturma listesi bu dosyalarla değiştirilir.
 ## Yapılandırma
 ### Sayfa numarası
 - Sayfa numarası olarak numaralar ( 1, 2, 3...) ya da  dosya isimlerini kullanabilirsiniz.
