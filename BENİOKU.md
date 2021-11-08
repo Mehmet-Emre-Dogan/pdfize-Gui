@@ -1,5 +1,5 @@
 <div align="center">
-  ![img](https://user-images.githubusercontent.com/87245315/132034660-b4cc8b20-8812-41e3-b505-75d7a6964497.png)
+  <img src="https://user-images.githubusercontent.com/87245315/132034660-b4cc8b20-8812-41e3-b505-75d7a6964497.png"> </img>
   </p> <br> </p>
 </div>
 # pdfize-Gui
