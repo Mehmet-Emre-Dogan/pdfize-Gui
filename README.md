@@ -17,6 +17,8 @@ Create a pdf file from your images with the help of the graphical user interface
 - If you use the 'Select folder' option, the images in the folder will be automatically sorted using the 'pkg_resources.parse_version()' built-in python function.
 ### Using select files button
 The images you selected in the file dialog will be used to create the PDF. The order of the pictures in PDF will be the same as your order of selection.
+### Dragging & dropping files
+- You may directly drag your files and drop into the app's window. By doing so, the files with compatible extensions automatically selected. If you drag and drop new set of files, old files will be ignored, and the new files will be used instead.
 ## Configuring
 ### Page number
 - You may use either integer ( 1, 2, 3...) or filenames as the page numbers.
