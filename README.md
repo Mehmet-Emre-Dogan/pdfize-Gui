@@ -10,6 +10,22 @@
 
 Create a pdf file from your images with the help of the graphical user interface. See [Youtube Link](https://www.youtube.com/watch?v=gmUfnPFoIhc) to watch high quality version of above video.
 
+# Abstract
+
+## Features
+-	Graphical multilingual (Turkish or English) user interface
+-	Drag & drop compatible
+-	Can crop images if desired
+-	Ability to add watermark
+-	Fully customizable page number and watermark formatting
+-	Adjustable output DPI and quality
+-	Filenames can be used as page numbers if desired
+-	Different app color themes
+-	The ability to open the output folder with the last created folder is selected
+-	
+## Disadvantages:
+-	High RAM usage when the size of the input files gets larger.
+
 # Usage
 ## Selecting files
 ### Using select folder button
