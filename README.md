@@ -5,7 +5,6 @@
 </p> <br> </p>
 </div>
 
-
 # pdfize-Gui
 
 Create a pdf file from your images with the help of the graphical user interface. See [Youtube Link](https://www.youtube.com/watch?v=gmUfnPFoIhc) to watch high quality version of above video.
@@ -22,7 +21,7 @@ Create a pdf file from your images with the help of the graphical user interface
 -	Filenames can be used as page numbers if desired
 -	Different app color themes
 -	The ability to open the output folder with the last created folder is selected
--	
+
 ## Disadvantages:
 -	High RAM usage when the size of the input files gets larger.
 
